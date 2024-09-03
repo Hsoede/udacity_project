@@ -8,6 +8,7 @@ This program gives insides into the US bikeshare usage with data from three majo
 * New York City
 * Washington
 * Chicago
+More to be added later.
 
 ### Files used
 * chicago.csv

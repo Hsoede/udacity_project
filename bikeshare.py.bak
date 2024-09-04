@@ -113,6 +113,7 @@ def time_stats(df):
 
     # TO DO: display the most common start hour
     # group by hour, count and sort by count. Display top 1
+    # df['Start Time'] = pd.to_datetime(df['Start Time'])
     ## extract hour from the Start Time column to create an hour column
     df['start_hour'] = df['Start Time'].dt.hour
 
